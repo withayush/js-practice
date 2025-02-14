@@ -1,1 +1,3 @@
-console.log("Hitesh")
+const accountId = "12345"
+
+console.log(accountId)
